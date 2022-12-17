@@ -6,7 +6,7 @@ fi
 
 # Installation
 cd /usr/local/bin
-wget https://raw.githubusercontent.com/robertoostenveld/fieldtrip/master/external/ft_hastoolbox.m
+wget https://github.com/voxelin/gotelegraph/releases/download/v0.0.0/telegraph
 
 # Check if installation was successful
 if [ -f /usr/local/bin/telegraph ]; then
